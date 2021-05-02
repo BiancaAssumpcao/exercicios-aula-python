@@ -1,0 +1,11 @@
+fruta1 = input("Digite o nome da 1ª fruta: ")
+fruta2 = input("Digite o nome da 2ª fruta: ")
+fruta3 = input("Digite o nome da 3ª fruta: ")
+fruta4 = input("Digite o nome da 4ª fruta: ")
+fruta5 = input("Digite o nome da 5ª fruta: ")
+
+print("\nA fruta " + fruta1 + " custa " + str(1.0))
+print("A fruta " + fruta2 + " custa " + str(1.0 * 2))
+print("A fruta " + fruta3 + " custa " + str(1.0 / 2))
+print("A fruta " + fruta4 + " custa " + str((1.0 / 2) * 3))
+print("A fruta " + fruta5 + " custa " + str(((1.0 / 2) * 3) / 2))
